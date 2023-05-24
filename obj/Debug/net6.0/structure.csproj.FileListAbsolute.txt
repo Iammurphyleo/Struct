@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\structure\bin\Debug\net6.0\structure.exe
+C:\Users\Hp\Desktop\structure\bin\Debug\net6.0\structure.deps.json
+C:\Users\Hp\Desktop\structure\bin\Debug\net6.0\structure.runtimeconfig.json
+C:\Users\Hp\Desktop\structure\bin\Debug\net6.0\structure.dll
+C:\Users\Hp\Desktop\structure\bin\Debug\net6.0\structure.pdb
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\structure.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\structure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\structure.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\structure.AssemblyInfo.cs
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\structure.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\structure.dll
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\refint\structure.dll
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\structure.pdb
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\structure.genruntimeconfig.cache
+C:\Users\Hp\Desktop\structure\obj\Debug\net6.0\ref\structure.dll
